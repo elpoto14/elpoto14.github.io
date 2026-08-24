@@ -9,9 +9,7 @@
 <br>
 
 | <img src="ciber.png" width="100"> | <img src="windows.png" width="100"> | <img src="ubuntu.png" width="100">
-| :---: | :---: | :---: | :---: |
 | <img src="python.png" width="100"> | <img src="Markdown.png" width="100"> | <img src="office.png" width="100"> |
-| :---: | :---: | :---: | :---: |
 <img src="android.png" width="100"> | 
 | :---: | :---: | :---: | :---: |
 | **Ciberseguridad** | **Windows** | **Ubuntu** | **python** | **Markdown** | **Office** | **Android** |
