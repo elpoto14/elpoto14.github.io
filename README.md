@@ -2,7 +2,7 @@
 
 <img src="perfil.png" width="100">
 
-# elpoto14
+<h1> Francisco Egea (elpoto14) </h1>
 
 ¡Hola! Bienvenido a mi espacio personal. Aquí documento mi aprendizaje, apuntes y guías técnicas.
 
