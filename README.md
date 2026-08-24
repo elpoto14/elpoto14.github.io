@@ -15,8 +15,8 @@
 | <img src="python.png" width="100"> | <img src="github.png" width="100"> | <img src="office.png" width="100"> |
 | **Python** | **Markdown** | **Office** |
 | [🔗 En construcción...](#) | [🔗 En construcción...](#) | [🔗 En construcción...](#) |
-| <img src="android.png" width="100"> | |
-| **Android** | | 
-| [🔗 En construcción...](#) | | 
+| <img src="android.png" width="100"> | | |
+| **Android** | | |
+| [🔗 En construcción...](#) | | |
 
 </div>
