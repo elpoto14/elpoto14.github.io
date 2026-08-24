@@ -8,12 +8,17 @@
 
 <br>
 
-| <img src="ciber.png" width="100"> | <img src="windows.png" width="100"> | <img src="ubuntu.png" width="100">
+| <img src="ciber.png" width="100"> | <img src="windows.png" width="100"> | <img src="ubuntu.png" width="100"> |
+| :---: | :---: | :---: | 
+| **Ciberseguridad** | **Windows** | **Ubuntu** |
+| [🔗 En construcción...](#) | | [🔗 En construcción...](#) | | [🔗 En construcción...](#) |
 | <img src="python.png" width="100"> | <img src="Markdown.png" width="100"> | <img src="office.png" width="100"> |
+| :---: | :---: | :---: |
+| **python** | **Markdown** | **Office** |
+| [🔗 En construcción...](#) | | [🔗 En construcción...](#) | | [🔗 En construcción...](#) |
 <img src="android.png" width="100"> | 
-| :---: | :---: | :---: | :---: |
-| **Ciberseguridad** | **Windows** | **Ubuntu** | **python** | **Markdown** | **Office** | **Android** |
-| [🔗 En construcción...](#) | [🔗 En construcción...](#) | [🔗 En construcción...](#) | | [🔗 En construcción...](#) | [🔗 En construcción...](#) | 
-[🔗 En construcción...](#) | [🔗 En construcción...](#) |
+| :---: | 
+| **Android** |
+| [🔗 En construcción...](#) |
 
 </div>
