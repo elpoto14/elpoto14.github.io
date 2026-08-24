@@ -14,11 +14,11 @@
 | [🔗 En construcción...](#) | | [🔗 En construcción...](#) | | [🔗 En construcción...](#) |
 | <img src="python.png" width="100"> | <img src="Markdown.png" width="100"> | <img src="office.png" width="100"> |
 | :---: | :---: | :---: |
-| **python** | **Markdown** | **Office** |
+| ***python*** | ***Markdown*** | ***Office*** |
 | [🔗 En construcción...](#) | | [🔗 En construcción...](#) | | [🔗 En construcción...](#) |
 <img src="android.png" width="100"> | 
 | :---: | 
-| **Android** |
+| ***Android*** |
 | [🔗 En construcción...](#) |
 
 </div>
