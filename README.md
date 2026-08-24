@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="perfil.png" width="100">
+<img src="assets/perfil.png" width="100">
 
 <h1> Francisco Egea (elpoto14) </h1>
 
