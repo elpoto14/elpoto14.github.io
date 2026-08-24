@@ -17,26 +17,22 @@
       <p><a href="#">🔗 En construcción...</a></p>
     </td>
 
-<img src="windows.png" width="100">
+<table align="center" style="border: none;">
+  <tr align="center">
+    <td width="33%" valign="top">
+      <img src="windows.png" width="100"><br>
+      <h3>Tutoriales Windows</h3>
+      <p><a href="#">🔗 En construcción...</a></p>
+    </td>
 
-### Tutoriales windows
-*Optimizaciones, configuraciones y comandos imprescindibles para dominar la terminal.*
-> 🔗 Enlace en construcción...
-
----
-
-<img src="ubuntu.png" width="100">
-
-### tutoriales linux (distros basadas en ubuntu)
-
----
-
-<img src="auxiliar.png" width="100">
-
-### Oposición Auxiliar Administrativo
-*Resúmenes, esquemas y temario estructurado para la preparación de la oposición.*
-> 🔗 Enlace en construcción...
-
----
+<table align="center" style="border: none;">
+  <tr align="center">
+    <td width="33%" valign="top">
+      <img src="ubuntu.png" width="100"><br>
+      <h3>Tutoriales distros base Ubuntu</h3>
+      <p><a href="#">🔗 En construcción...</a></p>
+    </td>
+</tr>
+</table>
 
 </div>
