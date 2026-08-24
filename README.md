@@ -9,7 +9,7 @@
 <br>
 
 | <img src="ciber.png" width="100"> | <img src="windows.png" width="100"> | <img src="ubuntu.png" width="100"> |
-| :---: | :---: | :---: | :---:|
+| :---: | :---: | :---: |
 | **Ciberseguridad** | **Windows** | **Ubuntu** |
 | [🔗 En construcción...](#) | [🔗 En construcción...](#) | [🔗 En construcción...](#) |
 | <img src="python.png" width="100"> | <img src="github.png" width="100"> | <img src="office.png" width="100"> |
