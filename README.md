@@ -8,31 +8,9 @@
 
 <br>
 
-
-<table align="center" style="border: none;">
-  <tr align="center">
-    <td width="33%" valign="top">
-      <img src="ciber.png" width="100"><br>
-      <h3>Ciberseguridad</h3>
-      <p><a href="#">🔗 En construcción...</a></p>
-    </td>
-
-<table align="center" style="border: none;">
-  <tr align="center">
-    <td width="33%" valign="top">
-      <img src="windows.png" width="100"><br>
-      <h3>Tutoriales Windows</h3>
-      <p><a href="#">🔗 En construcción...</a></p>
-    </td>
-
-<table align="center" style="border: none;">
-  <tr align="center">
-    <td width="33%" valign="top">
-      <img src="ubuntu.png" width="100"><br>
-      <h3>Tutoriales distros base Ubuntu</h3>
-      <p><a href="#">🔗 En construcción...</a></p>
-    </td>
-</tr>
-</table>
+| <img src="ciber.png" width="100"> | <img src="windows.png" width="100"> | <img src="ubuntu.png" width="100"> |
+| :---: | :---: | :---: |
+| **Ciberseguridad** | **Tutoriales Windows** | **Tutoriales Linux base Ubuntu** |
+| [🔗 En construcción...](#) | [🔗 En construcción...](#) | [🔗 En construcción...](#) |
 
 </div>
