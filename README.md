@@ -11,7 +11,7 @@
 | <img src="assets/ciber.png" width="100"> | <img src="assets/windows.png" width="100"> | <img src="assets/ubuntu.png" width="100"> |
 | :---: | :---: | :---: |
 | **Ciberseguridad** | **Windows** | **Ubuntu** |
-| [🔗 En construcción...](#) | [🔗 En construcción...](#) | [🔗 En construcción...](#) |
+| [🔗 En construcción...](#) |<p><a href="tutoriales-windows/"></a></p> |<p><a href="tutoriales-ubuntu/"></a></p> |
 | <img src="assets/python.png" width="100"> | <img src="assets/github.png" width="100"> | <img src="assets/office.png" width="100"> |
 | **Python** | **Markdown** | **Office** |
 | [🔗 En construcción...](#) | [🔗 En construcción...](#) | [🔗 En construcción...](#) |
