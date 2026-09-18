@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 manejo del sistema ubuntu
+# 🤖 Manejo del sistema ubuntu
 
 </div>
 
