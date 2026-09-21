@@ -44,7 +44,7 @@ los que se hallais venido conmigo a este paso os dare un pequeño consejo hay mu
 
 * **WINDOWS 11 HOME**
 
-  esta version del sistema operativo esta diseñada para el comun de los mortales lo tiene todo para el 95% de los mortales, pero eso si tiene algunas desventajas, si ya de por si windows te trata como un usuario de segunda, la version home te trata como a un usuario casi de tercera, ademas esta version tiene mas telemetria que la version pro y ademas de eso esta capado en cuanto a funciones y configuraciones del sistema operativo, ¿es entonces una mala opcion? para nada como he dicho antes esta version es ideal para el 95% de los mortales de echo creo que en esta version el bypass para hacer la instalacion del sistema de manera local ya no funciona
+esta version del sistema operativo esta diseñada para el comun de los mortales lo tiene todo para el 95% de los mortales, pero eso si tiene algunas desventajas, si ya de por si windows te trata como un usuario de segunda, la version home te trata como a un usuario casi de tercera, ademas esta version tiene mas telemetria que la version pro y ademas de eso esta capado en cuanto a funciones y configuraciones del sistema operativo, ¿es entonces una mala opcion? para nada como he dicho antes esta version es ideal para el 95% de los mortales de echo creo que en esta version el bypass para hacer la instalacion del sistema de manera local ya no funciona
 
 * **WINDOWS 11 PRO**
 
@@ -72,12 +72,83 @@ en esta pantalla pulsamos en instalar
   <img src="asets/8.png" width="600" alt="paso 8">
 </div>
 
-el sistema comenzar a instalarse asi que hay que dejarlo que hagas sus tejemanejes tranquilo
+el sistema comenzara a instalarse asi que hay que dejarlo que hagas sus tejemanejes tranquilo
 
 <div align=center>
   <img src="asets/9.png" width="600" alt="paso 9">
   <img src="asets/10.png" width="600" alt="paso 10">
 </div>
 
+cuando aparezca esta pantalla haremos los siguiente y es el truco que microsoft no quiere que sepas en caso de que te de igual ignora esto
 
+<div align=center>
+  <img src="asets/14.png" width="600" alt="paso 14">
+</div>
+
+una vez aqui presionaremos la conbinacion de teclas sift + f10 y se abrira la consola de comandos o CMD como mas te guste a ti decirle y ponemos el siguiente comando 
+
+```cmd
+oobe\bypassnro
+```
+<div align=center>
+  <img src="asets/13.png" width="600" alt="paso 13">
+</div>
+
+como veis lo puse mal sin querer por que ya no me acordava xd a estas edades el cerebro ya no ba tan fino como antes jaja una vez le deis a enter el pc se reiniciara lo recomendable es que el equipo no tenga conexion a internet ni por wifi ni por cable, es una jodienda pero en su afan de espiarte microsoft recurre a estas praxis para putear al usuario todo sea dicho, microsoft piensa, cuantas mas trabas para que la gente se cree una cuenta local menos gente lo hara y pasara por el aro de la cuenta con microsoft, en fin pero nosotros no desistimos y crearemos nuestra cuenta local
+
+una vez que finalice el pc de reiniciarse volvemos a la pantalla de bienvenida donde nos dice el idioma a escoger y demas
+
+<div align=center>
+  <img src="asets/14.png" width="600" alt="paso 14">
+</div>
+
+elegimos el idioma que mejor nos apañe y damos siguiente
+
+lo mismo con la distribucion del teclado
+
+<div align=center>
+  <img src="asets/15.png" width="600" alt="paso 15">
+</div>
+
+aqui omitimos
+
+<div align=center>
+  <img src="asets/16.png" width="600" alt="paso 16">
+</div>
+
+aqui daremos a "no tengo internet"
+
+<div align=center>
+  <img src="asets/17.png" width="600" alt="paso 17">
+</div>
+
+ponemos nuestro nombre de usuario 
+
+<div align=center>
+  <img src="asets/18.png" width="600" alt="paso 18">
+</div>
+
+aqui ponemos la contraseña pero si no queremos ponerle ninguna cosa que mucha gente me ha demandado a la hora de intalar el sistema simplemente le damos a intro y tendremos el usuario sin contraseña
+
+<div align=center>
+  <img src="asets/19.png" width="600" alt="paso 19">
+</div>
+
+estas opciones es a gusto del consumidor pero yo las pongo todas en "NO" que siempre es la segunda opcion os dejo las imagenes para que no se lieis 
+
+<div align=center>
+  <img src="asets/20.png" width="600" alt="paso 20">
+  <img src="asets/21.png" width="600" alt="paso 21">
+  <img src="asets/22.png" width="600" alt="paso 22">
+  <img src="asets/23.png" width="600" alt="paso 23">
+  <img src="asets/24.png" width="600" alt="paso 24">
+</div>
+
+y despues de toda la parafernalia windows empieza nuevamente a hacer cositas, vamos a dejar que termine de invocar al maligno
+
+<div align=center>
+  <img src="asets/25.png" width="600" alt="paso 25">
+</div>
+
+despues de esta pantallita el sistema pasa a un fundido a negro y tatachan windows esta instalado con exito, ahora si dale conexion a internet, ve a windows update y ponlo a actualizar para ponerlo al dia
 
