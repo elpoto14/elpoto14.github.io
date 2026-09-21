@@ -16,7 +16,7 @@ ademas de hacer la instalacion propiamente dicha os enseñare el truquiviri que 
 
 esta es la pantalla del instalador de windows, como vemos es bastante simple lo que haremos es elegir el idioma en mi caso español de españa para el idioma y el formato de hora y moneda pero tu puedes elegir el que mejor te apañe 
 
-<img src="asets/1.png" width "100" alt="paso 1">
+<img src="asets/1.png" width="100" alt="paso 1">
 
 
 
