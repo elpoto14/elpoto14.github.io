@@ -115,6 +115,58 @@ Para habilitar la creación de una cuenta local sin conexión a internet:
 ```cmd
 oobe\bypassnro
 ```
+3. presiona enter y espera a que se reinicie el pc
+
+---
+
+## 6. configuracion inicial de sistema (ahora ya esta activada la opcion de cuenta local)
+
+1. elegimos el pais o region
+
+<div align=center>
+  <img src="asets/14.png" width="600" alt="paso 14">
+</div>
+
+2. elegimos la distribucion del teclado
+
+<div align=center>
+  <img src="asets/15.png" width="600" alt="paso 15">
+</div>
+
+3. omitimos el agregar una segunda distribucion
+
+<div align=center>
+  <img src="asets/16.png" width="600" alt="paso 16">
+</div>
+
+4. en conectarte a una red le4 daremos a no tengo internet
+
+<div align=center>
+  <img src="asets/17.png" width="600" alt="paso 17">
+</div>
+
+5. aqui ponemos nuestro nombre de usuario
+
+<div align=center>
+  <img src="asets/18.png" width="600" alt="paso 18">
+</div>
+
+6. aqui escribimos la contraseña en caso de que queramos ponerle una, en caso de que no sea el caso pulsamos enter y el sistema iniciara sesion automaticamente
+
+<div align=center>
+  <img src="asets/19.png" width="600" alt="paso 19">
+</div>
+
+7. aqui marca lo que he marcado yo
+
+<div align=center>
+  <img src="asets/20.png" width="600" alt="paso 20">
+  <img src="asets/21.png" width="600" alt="paso 221">
+  <img src="asets/22.png" width="600" alt="paso 22">
+  <img src="asets/24.png" width="600" alt="paso 24">
+</div>
+
+8. luego aparecera esta pantalla espera unos momentos a que termine de instalar lo que le queda
 
 <div align=center>
   <img src="asets/25.png" width="600" alt="paso 25">
