@@ -24,17 +24,17 @@ esto es muy util para cuando queramos meter comandos y que la gente los pueda co
 
 para linux 
 
-'````bash
+(````bash
 sudo apt update
-````'
+````)
 
 para windows o bien por cmd o por powershell
 
-'````cmd
+(````cmd
 ipconfig /all
-````'
+````)
 
-'````powershell
+(````powershell
 winget upgrade --all
-````'
+````)
 
