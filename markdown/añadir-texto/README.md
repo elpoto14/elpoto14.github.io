@@ -8,15 +8,21 @@ TITULOS.
 
 para escribir un titulo osease un texto en grande lo pondremos de la siguiente manera
 
-"# titulo de ejemplo"
+````
+# titulo de ejemplo
+````
 
 para añadir un subtitulo osease un texto un poco mas pequeño lo haremos asi
 
-"## subtitulo de ejemplo"
+````
+## subtitulo de ejemplo
+````
 
 para una seccion o apartado lo haremos de la siguiente manera 
 
-"### seccion o apartado texto pequeño"
+````
+### seccion o apartado texto pequeño
+````
 
 TEXTO DENTRO DE CONSOLA 
 
