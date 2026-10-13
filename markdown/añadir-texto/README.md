@@ -45,6 +45,8 @@ resultado:
 
 tambien podemos hacer listas en markdown y es basatante sencillo de echo, para hacer una lista pondremos lo siguiente 
 
+lista simple:
+
 ````
 * elemento 1
 * elemento 2
@@ -56,6 +58,28 @@ resultado:
 * elemento 1
 * elemento 2
 * elemento 3
+
+## CHECKLIST ESTILO TAREA O COMPROBACION
+
+estas listas son utilos para hacer comprobaciones de tareas realizadas o tareas pendientes de realizar ademas son interactivas cualquiera puede marcar el chek, ademas el chek podemos añadirlo nosotros mismos en markdown, para marcar un elemento como realizado pondremos una x dentro de los corchetes de elemento en cuestion, si la tarea no esta realizada dejaremos los corchetes vacios 
+
+para hacer este tipo de listas lo haremos asi 
+
+````
+- [] actualizar el sistema
+- [] reiniciar el sistema
+- [] instalar los programas
+- [] comprobar temperaturas
+````
+
+resultado:
+
+- [] actualizar el sistema
+- [] reiniciar el sistema
+- [] instalar los programas
+- [] comprobar temperaturas
+
+
 
 ## TEXTO DENTRO DE CONSOLA 
 
