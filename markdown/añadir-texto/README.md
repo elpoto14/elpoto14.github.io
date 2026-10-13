@@ -66,16 +66,16 @@ estas listas son utilos para hacer comprobaciones de tareas realizadas o tareas 
 para hacer este tipo de listas lo haremos asi 
 
 ````
-- [ x ] actualizar el sistema
-- [ ] reiniciar el sistema
+- [x] actualizar el sistema
+- [x] reiniciar el sistema
 - [ ] instalar los programas
 - [ ] comprobar temperaturas
 ````
 
 resultado:
 
-- [ x ] actualizar el sistema
-- [ ] reiniciar el sistema
+- [x] actualizar el sistema
+- [x] reiniciar el sistema
 - [ ] instalar los programas
 - [ ] comprobar temperaturas
 
