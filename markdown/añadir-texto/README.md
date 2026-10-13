@@ -12,17 +12,29 @@ para escribir un titulo osease un texto en grande lo pondremos de la siguiente m
 # titulo de ejemplo
 ````
 
+resultado:
+
+# titulo de ejemplo
+
 para añadir un subtitulo osease un texto un poco mas pequeño lo haremos asi
 
 ````
 ## subtitulo de ejemplo
 ````
 
+resultado:
+
+## subtitulo de ejemplo
+
 para una seccion o apartado lo haremos de la siguiente manera 
 
 ````
 ### seccion o apartado texto pequeño
 ````
+
+resultado:
+
+### seccion o apartado texto pequeño
 
 ## TEXTO DENTRO DE CONSOLA 
 
@@ -35,6 +47,12 @@ para linux
 sudo apt update
 ```
 ````
+
+resultado:
+
+```bash
+sudo apt update
+```
 
 para windows o bien por cmd o por powershell
 
@@ -49,5 +67,37 @@ ipconfig /all
 winget upgrade --all
 ```
 ````
+
+resultado:
+
+```cmd
+ipconfig /all
+```
+
+```powershell
+winget upgrade --all
+```
+
+## FORMATO DE LA FUENTE
+
+el texto en markdown tiene multiples formatos como en una pagina web podemos poner el texto normal, en negrita, con subrayado entre otras
+
+para pner el texto en negrita lo pondremos asi 
+
+````
+**texto en negrita**
+````
+
+resultado:
+
+**texto en negrita**
+
+
+
+
+
+
+
+
 
 
