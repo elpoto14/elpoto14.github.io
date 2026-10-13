@@ -61,7 +61,7 @@ resultado:
 
 ## CHECKLIST ESTILO TAREA O COMPROBACION
 
-estas listas son utilos para hacer comprobaciones de tareas realizadas o tareas pendientes de realizar ademas son interactivas cualquiera puede marcar el chek, ademas el chek podemos añadirlo nosotros mismos en markdown, para marcar un elemento como realizado pondremos una x dentro de los corchetes de elemento en cuestion, si la tarea no esta realizada dejaremos los corchetes vacios 
+estas listas son utiles para hacer comprobaciones de tareas realizadas o tareas pendientes de realizar el chek podemos añadirlo o quitarlo nosotros mismos en markdown, para marcar un elemento como realizado pondremos una x dentro de los corchetes del elemento en cuestion, si la tarea no esta realizada dejaremos los corchetes vacios 
 
 para hacer este tipo de listas lo haremos asi 
 
@@ -79,7 +79,7 @@ resultado:
 - [ ] instalar los programas
 - [ ] comprobar temperaturas
 
-
+---
 
 ## TEXTO DENTRO DE CONSOLA 
 
