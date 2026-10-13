@@ -1,8 +1,11 @@
+<div align="center">
+
 # INTRODUCIR TEXTO EN MULTIPLES FORMATOS EN MARKDOWN
 
 vamos a introducir texto en multiples formatos en markdown como titulos, listas, y demas cosas utiles para que podais crear vuestros repositorios de manero profesional VAMOS AL LIO!!!
 
 introducr texto en markdown es bastante sencillo y practicando un poco ya se te va quedando. y recuerda que los comandos se escriben sin las comillas, las comillas son para comentar el texto y que se vea el comando
+</div>
 
 ## TITULOS.
 
@@ -35,6 +38,24 @@ para una seccion o apartado lo haremos de la siguiente manera
 resultado:
 
 ### seccion o apartado texto pequeño
+
+---
+
+## LISTAS
+
+tambien podemos hacer listas en markdown y es basatante sencillo de echo, para hacer una lista pondremos lo siguiente 
+
+````
+* elemento 1
+* elemento 2
+* elemento 3
+````
+
+resultado:
+
+* elemento 1
+* elemento 2
+* elemento 3
 
 ## TEXTO DENTRO DE CONSOLA 
 
@@ -78,6 +99,8 @@ ipconfig /all
 winget upgrade --all
 ```
 
+---
+
 ## FORMATO DE LA FUENTE
 
 el texto en markdown tiene multiples formatos como en una pagina web podemos poner el texto normal, en negrita, con subrayado entre otras
@@ -91,6 +114,8 @@ para pner el texto en negrita lo pondremos asi
 resultado:
 
 **texto en negrita**
+
+
 
 
 
